@@ -37,4 +37,4 @@ Este proyecto es una Landing Page responsiva para **ETM Company SAC**, diseñada
 - 📱 Lucide Icons (para íconos modernos)
 - 🏗 React Intersection Observer (para efectos on-scroll)
 
-[Visita el Demo]([https://linux.com](https://oscartired.github.io/etm_page/))
+[Visita el Demo](https://oscartired.github.io/etm_page/)
