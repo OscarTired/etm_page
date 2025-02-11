@@ -17,5 +17,11 @@ Este proyecto es una Landing Page responsiva para **ETM Company SAC**, diseñada
 ## 📌 Secciones de la Página:
 | Sección	| Descripción |
 |---------|-------------|
-| Inicio	| Fila 1 Col 2 |
-| Fila 2 Col 1 | Fila 2 Col 2 |
+| Inicio	| Presentación de la empresa con imagen de fondo.|
+| Navbar | Menu con botones a distintas secciones de la pagina con botón de llamada rápida para contacto inmediato. |
+| Sobre Nosotros | 	Información sobre la empresa y sus valores. |
+| Proyectos | Carrusel interactivo de proyectos con modal de detalles. |
+| Servicios | Listado de los servicios ofrecidos. |
+| Productos	| Galería de productos con botón de cotización vía WhatsApp. |
+| Contacto	| Formulario de contacto y redes sociales. |
+| Footer | Pequeño apartado con botones a secciones de la pagina + pagina legal para T&C, Politica de Privacidad y Cookies. |
