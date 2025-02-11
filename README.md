@@ -25,3 +25,16 @@ Este proyecto es una Landing Page responsiva para **ETM Company SAC**, diseñada
 | Productos	| Galería de productos con botón de cotización vía WhatsApp. |
 | Contacto	| Formulario de contacto y redes sociales. |
 | Footer | Pequeño apartado con botones a secciones de la pagina + pagina legal para T&C, Politica de Privacidad y Cookies. |
+
+## 🛠 Tecnologías Utilizadas
+### 🚀 Frontend:
+- ⚛️ React.js + TypeScript
+- 🎨 TailwindCSS (para estilos rápidos y responsivos)
+- 🎭 Framer Motion (para animaciones fluidas)
+- 📜 React Router (para el enrutamiento interno)
+### 🖥 Otros:
+- ☁️ Vite.js (para desarrollo rápido)
+- 📱 Lucide Icons (para íconos modernos)
+- 🏗 React Intersection Observer (para efectos on-scroll)
+
+[Visita el Demo]([https://linux.com](https://oscartired.github.io/etm_page/))
